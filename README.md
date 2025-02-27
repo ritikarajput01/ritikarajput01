@@ -89,8 +89,9 @@
     <p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikarajput01&theme=tokyo-night&hide_border=true"
             alt="Activity Graph" /> </p>
     <h3>🔥 Streak Stats</h3>
-    <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikarajput01&theme=radical&hide_border=true"
-            alt="Streak Stats" /> </p>
+    <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikarajput01&theme=dark" alt="ritikarajput01" />
+</p>
 </div>
 <div align="center">
     <h3>📊 Top Languages</h3>
